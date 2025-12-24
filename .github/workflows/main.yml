@@ -15,4 +15,4 @@ jobs:
         server: ${{ secrets.FTP_SERVER }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        server-directory: htdocs/ # This is the directory on InfinityFree where files are served from
+        server-dir: htdocs/ # This is the directory on InfinityFree where files are served from
