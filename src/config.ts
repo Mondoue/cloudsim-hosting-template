@@ -1,7 +1,7 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Mohannad Saif",
+  title: "This is a Temporary website for Cloudsim Hosting",
+  description: "Portfolio website of Mohannad Saif",
   accentColor: "#1d4ed8",
   social: {
     email: "your-email@example.com",
